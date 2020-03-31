@@ -1,5 +1,5 @@
 
-
+article source : https://medium.com/@abhimuralidharan/functional-swift-all-about-closures-310bc8af31dd
 // array of closures 
 var i = 0
 var closureArray = [()->()]()
